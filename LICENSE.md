@@ -1,4 +1,4 @@
-MIT License
+MIT License "First branch2 commit"
 
 Copyright (c) 2018—preset Artem Zakharchenko
 
