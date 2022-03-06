@@ -3,7 +3,7 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
-"Third branch1 commit"
+"Third branch commit"
 # Naming cheatsheet
 
 - [English language](#english-language)
